@@ -14,10 +14,10 @@ Currently, the covid-19 epidemic is very complicated so most people have to stay
 [quick-start.md](quick-start.md)
 {% endcontent-ref %}
 
-## Want to deep dive?
+## Vision and Mission
 
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
+The quality is what's solid.
 
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
+{% content-ref url="quick-start-2.md" %}
+[quick-start-2.md](quick-start-2.md)
 {% endcontent-ref %}

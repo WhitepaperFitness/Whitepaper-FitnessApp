@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [About Us](quick-start.md)
-* [Copy of About Us](quick-start-1.md)
+* [🏋♂ About Us](quick-start.md)
+* [Vission and Mission](quick-start-1.md)
+* [Copy of About Us](quick-start-2.md)
 
 ## Reference
 

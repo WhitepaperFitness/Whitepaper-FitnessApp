@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Quick Start](quick-start.md)
+* [About Us](quick-start.md)
+* [Copy of About Us](quick-start-1.md)
 
 ## Reference
 

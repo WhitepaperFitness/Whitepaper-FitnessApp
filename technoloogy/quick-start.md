@@ -2,7 +2,7 @@
 description: https://www.mongodb.com/
 ---
 
-# MongoDB
+# 🍃 MongoDB
 
 
 
@@ -23,7 +23,7 @@ description: https://www.mongodb.com/
 We will also install the dependencies.
 
 {% tabs %}
-{% tab title="" %}
+{% tab title="NPM" %}
 ```
 # Install via NPM
 npm install mongodb express cors dotenv

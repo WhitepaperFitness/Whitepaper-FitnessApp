@@ -1,15 +1,15 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [🏋♂ About Us](about-us.md)
+* [🏋♂ About Us](quick-start.md)
 * [🏋 Vision and Mission](vision-and-mission.md)
 
 ## 📲 TECHNOLOOGY
 
-* [MongoDB](technoloogy/quick-start.md)
-* [Express](technoloogy/pets.md)
-* [ReactJS](technoloogy/users.md)
-* [NodeJS](technoloogy/quick-start-1.md)
+* [🍃 MongoDB](technoloogy/quick-start.md)
+* [🌼 Express](reference/api-reference/pets.md)
+* [🌏 ReactJS](reference/api-reference/users.md)
+* [💚 NodeJS](quick-start-1.md)
 
 ## Copy of Reference
 

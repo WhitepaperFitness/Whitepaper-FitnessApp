@@ -10,14 +10,14 @@ Currently, the covid-19 epidemic is very complicated so most people have to stay
 
 ## About us&#x20;
 
-{% content-ref url="about-us.md" %}
-[about-us.md](about-us.md)
+{% content-ref url="quick-start.md" %}
+[quick-start.md](quick-start.md)
 {% endcontent-ref %}
 
 ## Vision and Mission
 
 The quality is what's solid.
 
-{% content-ref url="technoloogy/quick-start-1.md" %}
-[quick-start-1.md](technoloogy/quick-start-1.md)
+{% content-ref url="quick-start-1.md" %}
+[quick-start-1.md](quick-start-1.md)
 {% endcontent-ref %}

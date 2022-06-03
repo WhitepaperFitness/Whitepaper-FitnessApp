@@ -1,12 +1,18 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [🏋♂ About Us](quick-start.md)
-* [Vission and Mission](quick-start-1.md)
-* [Copy of About Us](quick-start-2.md)
+* [🏋♂ About Us](about-us.md)
+* [🏋 Vision and Mission](vision-and-mission.md)
 
-## Reference
+## 📲 TECHNOLOOGY
 
-* [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
+* [MongoDB](technoloogy/quick-start.md)
+* [Express](technoloogy/pets.md)
+* [ReactJS](technoloogy/users.md)
+* [NodeJS](technoloogy/quick-start-1.md)
+
+## Copy of Reference
+
+* [API Reference](copy-of-reference/api-reference/README.md)
+  * [Pets](copy-of-reference/api-reference/pets.md)
+  * [Users](copy-of-reference/api-reference/users.md)

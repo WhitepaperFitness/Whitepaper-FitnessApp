@@ -1,23 +1,14 @@
-# API Reference
+---
+description: Training page with huge exercises for anyone can easily refer to and follow.
+---
 
-Dive into the specifics of each API endpoint by checking out our complete documentation.
+# Training&#x20;
 
-## Pets
+This is general interface when user access training page.
 
-All the methods associated with `CRUD`ing some pets. Which isn't as weird as it sounds:
+![General interface of training page](<../../.gitbook/assets/image (8).png>)
 
-{% content-ref url="../../reference/api-reference/pets.md" %}
-[pets.md](../../reference/api-reference/pets.md)
-{% endcontent-ref %}
+#### Quick start to Training Page of HHT Fitness Page:
 
-## Users
+{% embed url="https://hht-fitness-app.netlify.app/training" %}
 
-Everything related to users:
-
-{% content-ref url="../../reference/api-reference/users.md" %}
-[users.md](../../reference/api-reference/users.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Using the 'Page Link' block lets you link directly to a page. If this page's name, URL or parent location changes, the reference will be kept up to date. You can also mention a page – like [pets.md](../../reference/api-reference/pets.md "mention") – if you don't want a block-level link.
-{% endhint %}

@@ -16,7 +16,7 @@ Click to this field to use that functionality.
 
 Input the key words which you can search. Then, choose and click to the exercises have shown.
 
-![Input key words wanna find](../../.gitbook/assets/image.png)
+![Input key words wanna find](<../../.gitbook/assets/image (1).png>)
 
 #### Step 3:
 

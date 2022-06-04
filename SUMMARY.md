@@ -4,12 +4,12 @@
 * [🏋♂ About Us](quick-start.md)
 * [🏋 Vision and Mission](vision-and-mission.md)
 
-## 📲 TECHNOLOOGY
+## 📲 TECHNOLOOGY <a href="#technology" id="technology"></a>
 
-* [🍃 MongoDB](technoloogy/quick-start.md)
-* [🌼 Express](reference/api-reference/pets.md)
-* [🌏 ReactJS](reference/api-reference/users.md)
-* [💚 NodeJS](quick-start-1.md)
+* [🍃 MongoDB](technology/mongo-db.md)
+* [🌼 Express](technology/express.md)
+* [🌏 ReactJS](technology/react-js.md)
+* [💚 NodeJS](technology/node-js.md)
 
 ## Copy of Reference
 

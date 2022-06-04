@@ -6,18 +6,18 @@ Dive into the specifics of each API endpoint by checking out our complete docume
 
 All the methods associated with `CRUD`ing some pets. Which isn't as weird as it sounds:
 
-{% content-ref url="../../reference/api-reference/pets.md" %}
-[pets.md](../../reference/api-reference/pets.md)
+{% content-ref url="../../technology/express.md" %}
+[express.md](../../technology/express.md)
 {% endcontent-ref %}
 
 ## Users
 
 Everything related to users:
 
-{% content-ref url="../../reference/api-reference/users.md" %}
-[users.md](../../reference/api-reference/users.md)
+{% content-ref url="../../technology/react-js.md" %}
+[react-js.md](../../technology/react-js.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Good to know:** Using the 'Page Link' block lets you link directly to a page. If this page's name, URL or parent location changes, the reference will be kept up to date. You can also mention a page – like [pets.md](../../reference/api-reference/pets.md "mention") – if you don't want a block-level link.
+**Good to know:** Using the 'Page Link' block lets you link directly to a page. If this page's name, URL or parent location changes, the reference will be kept up to date. You can also mention a page – like [express.md](../../technology/express.md "mention") – if you don't want a block-level link.
 {% endhint %}

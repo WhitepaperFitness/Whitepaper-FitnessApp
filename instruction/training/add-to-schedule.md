@@ -20,7 +20,7 @@ After clicking the exercise, the detail of this exercise will be displayed in th
 
 Click to this symbol to using "Add to schedule" functionality.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 #### Step 4
 

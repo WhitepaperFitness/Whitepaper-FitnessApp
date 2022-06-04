@@ -11,3 +11,11 @@ People have different metabolisms that burn energy at different rates, and some 
 #### Quick link to access Nutrition page <a href="#https-hht-fitness-app.netlify.app-nutrition" id="https-hht-fitness-app.netlify.app-nutrition"></a>
 
 {% embed url="https://hht-fitness-app.netlify.app/nutrition" %}
+
+### General interface
+
+{% hint style="warning" %}
+Note: Forcing user to login before using nutrition page.
+{% endhint %}
+
+![](<../../.gitbook/assets/image (9).png>)

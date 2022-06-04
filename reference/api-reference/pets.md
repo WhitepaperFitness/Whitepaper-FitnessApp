@@ -1,60 +1,60 @@
----
-description: https://expressjs.com/
----
+# Pets
 
-# 🌼 Express
+## Creating a new pet
 
-## Web Applications
+{% swagger baseUrl="https://api.myapi.com/v1" method="post" path="/pet" summary="Create pet." %}
+{% swagger-description %}
+Creates a new pet.
+{% endswagger-description %}
 
-{% hint style="info" %}
-**Good to know:** Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-{% endhint %}
+{% swagger-parameter in="body" name="name" required="true" type="string" %}
+The name of the pet
+{% endswagger-parameter %}
 
-## APIs
+{% swagger-parameter in="body" name="owner_id" required="false" type="string" %}
+The 
 
-{% hint style="info" %}
-**Good to know:** With a myriad of HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy.
-{% endhint %}
+`id`
 
-## Performance
+ of the user who owns the pet
+{% endswagger-parameter %}
 
-{% hint style="info" %}
-**Good to know:** Express provides a thin layer of fundamental web application features, without obscuring Node.js features that you know and love.
-{% endhint %}
+{% swagger-parameter in="body" name="species" required="false" type="string" %}
+The species of the pet
+{% endswagger-parameter %}
 
-## Frameworks
+{% swagger-parameter in="body" name="breed" required="false" type="string" %}
+The breed of the pet
+{% endswagger-parameter %}
 
-{% hint style="info" %}
-**Good to know:** Many [popular frameworks](https://expressjs.com/en/resources/frameworks.html) are based on Express.
-{% endhint %}
-
-## Setting up&#x20;
-
-After we have ensured that dependencies were installed successfully, we create a file called **server.js** with the following code.:
-
+{% swagger-response status="200" description="Pet successfully created" %}
+```javascript
+{
+    "name"="Wilson",
+    "owner": {
+        "id": "sha7891bikojbkreuy",
+        "name": "Samuel Passet",
+    "species": "Dog",}
+    "breed": "Golden Retriever",
+}
 ```
-// mern/server/server.js
-const express = require("express");
-const app = express();
-const cors = require("cors");
-require("dotenv").config({ path: "./config.env" });
-const port = process.env.PORT || 5000;
-app.use(cors());
-app.use(express.json());
-app.use(require("./routes/record"));
-// get driver connection
-const dbo = require("./db/conn");
- 
-app.listen(port, () => {
-  // perform a database connection when server starts
-  dbo.connectToServer(function (err) {
-    if (err) console.error(err);
- 
-  });
-  console.log(`Server is running on port: ${port}`);
-});
+{% endswagger-response %}
 
-```
+{% swagger-response status="401" description="Permission denied" %}
 
-Here, we are requiring express and cors to be used. const port process.env.port will access the port variable from the config.env we required.
+{% endswagger-response %}
+{% endswagger %}
 
+{% hint style="info" %}
+**Good to know:** This API method was created using the API Method block, it's how you can build out an API method documentation from scratch. Have a play with the block and you'll see you can do some nifty things like add and reorder parameters, document responses, and give your methods detailed descriptions.
+{% endhint %}
+
+## Updating a pet
+
+{% swagger src="https://petstore.swagger.io/v2/swagger.json" path="/pet" method="put" %}
+[https://petstore.swagger.io/v2/swagger.json](https://petstore.swagger.io/v2/swagger.json)
+{% endswagger %}
+
+{% hint style="info" %}
+**Good to know:** This API method was auto-generated from an example Swagger file. You'll see that it's not editable – that's because the contents are synced to an URL! Any time the linked file changes, the documentation will change too.
+{% endhint %}

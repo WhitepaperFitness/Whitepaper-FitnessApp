@@ -18,4 +18,4 @@ People have different metabolisms that burn energy at different rates, and some 
 Note: Forcing user to login before using nutrition page.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)

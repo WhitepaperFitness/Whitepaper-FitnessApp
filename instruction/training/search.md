@@ -10,7 +10,7 @@ description: >-
 
 Click to this field to use that functionality.
 
-![Click to this field](<../../.gitbook/assets/image (4).png>)
+![Click to this field](<../../.gitbook/assets/image (4) (1).png>)
 
 #### Step 2
 

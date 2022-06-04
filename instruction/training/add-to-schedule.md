@@ -8,13 +8,13 @@ description: Adding to schedule help user can easily manage tracking exercises.
 
 Choose and click to the exercise you want to be shown
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 #### Step 2
 
 After clicking the exercise, the detail of this exercise will be displayed in the center of page
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 #### Step 3
 
@@ -26,7 +26,7 @@ Click to this symbol to using "Add to schedule" functionality.
 
 After clicking to "Adding to schedule" button, user select the day and time which will be shown in schedule exercise.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 If success, user can receive the alert message is "Adding successfully".
 

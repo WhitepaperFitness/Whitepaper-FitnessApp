@@ -87,7 +87,7 @@ Inside **src/index.js**, we add the following code:
 
 **mern/client/src/index.js**
 
-```
+```jsx
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";

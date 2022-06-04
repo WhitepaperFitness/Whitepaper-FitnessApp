@@ -32,7 +32,11 @@ description: https://expressjs.com/
 
 After we have ensured that dependencies were installed successfully, we create a file called **server.js** with the following code.:
 
-```
+Here, we are requiring express and cors to be used. const port process.env.port will access the port variable from the config.env we required.
+
+{% tabs %}
+{% tab title="JS" %}
+```jsx
 // mern/server/server.js
 const express = require("express");
 const app = express();
@@ -55,6 +59,5 @@ app.listen(port, () => {
 });
 
 ```
-
-Here, we are requiring express and cors to be used. const port process.env.port will access the port variable from the config.env we required.
-
+{% endtab %}
+{% endtabs %}

@@ -61,12 +61,6 @@ Then, we create a folder for the back end and name it _**server**_.
 mkdir server
 ```
 
-Then, we create a folder for the back end and name it _**server**_.
-
-```
-mkdir server
-```
-
 We will jump into the _**server**_ folder that we created previously and create the server. Then, we will initialize package.json using npm init.
 
 ```

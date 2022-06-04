@@ -18,6 +18,6 @@ Currently, the covid-19 epidemic is very complicated so most people have to stay
 
 The quality is what's solid.
 
-{% content-ref url="technology/node-js.md" %}
-[node-js.md](technology/node-js.md)
+{% content-ref url="quick-start-1.md" %}
+[quick-start-1.md](quick-start-1.md)
 {% endcontent-ref %}

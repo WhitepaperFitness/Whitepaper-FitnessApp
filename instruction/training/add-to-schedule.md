@@ -1,3 +1,7 @@
+---
+description: Adding to schedule help user can easily manage tracking exercises.
+---
+
 # Add to schedule
 
 #### Step 1
@@ -26,8 +30,7 @@ After clicking to "Adding to schedule" button, user select the day and time whic
 
 If success, user can receive the alert message is "Adding successfully".
 
-
-
 {% hint style="warning" %}
 Cannot add one exercise many time in day
 {% endhint %}
+
